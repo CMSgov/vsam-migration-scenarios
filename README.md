@@ -9,7 +9,9 @@ The following are copybooks which describe the logical and physical layouts of a
 Logical copybooks: FSRCCLMS (composed of 1xFSRCCLXS, 1xFSRCCLXB, 0-450xFSRCCLXL).
 
 Physical copybooks: one logical claim includes exactly 1xFSRCCLMP and 0-25x FSRCCLMR.
+
 FSRCCLMP is composed of 1xFSRCCLXS, 1xFSRCCLXB, and 0-10xFSRCCLXL.
+
 FSRCCLMR is composed of 1xFSRCCLXS and 0-18xFSRCCLXL.
 
 To compile these copybooks, please use the replacing option REPLACING ==:FSSC:== BY ==FSSCCLMS==.
